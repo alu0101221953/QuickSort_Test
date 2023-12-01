@@ -26,7 +26,6 @@
     <sonar.language>java</sonar.language>
 
 </properties>
-  
    <reporting>
          <plugins>
             <plugin>
